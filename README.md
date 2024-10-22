@@ -9,6 +9,9 @@ Read the model, obtain information ->put it into vertex buffer ->perform MV tran
 ->rasterization and interpolation -> shading. <br>
 The main visual effects achieved by this renderer include perspective corrected UV texture mapping and a simple diffuse lighting model.<br>
 ## Tiny Online Greedy-Snake Game
+![image](snake.png)<br>
 I wrote a tiny online game for at most two players using C++, running in Ubuntu<br>
 This is a simple C++ console game, using deque for snakes and two-dimensional array for environment  <br>
 I used frame synchronization, which means that both players must receive each other's actions before continuing to run the next frame <br>
+## A Puzzle game
+
