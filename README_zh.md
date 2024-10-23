@@ -1,31 +1,22 @@
 # 数字作品集
-## A Puzzle game
-**Solo**<br>
-**Tool: Unity Blender. Language: C# HLSL**<br>
-**Time cost: 1.5 month**<br>
-**Award: Creative Gameplay Award in the Campus Game Jam**<br>
-I wrote a 3d Puzzle game in Unity.<br>
+## 解密小游戏
+**独自完成**<br>
+**工具: Unity Blender. 语言: C# HLSL**<br>
+**奖项: 校内创意玩法奖**<br>
 ![image](game.png)<br>
-In this game, you can throw the block into the door and it will pop out on the other side of another door.<br>
-Similarly, this mechanism can be used to fake a non-Euclidean space.<br>
-To learn more about my game, you can watch the [video](gamedemo.mp4) <br>
-## Software Renderer
-**Solo**<br>
-**Tool: Visual Studio Code. Language: JAVA**<br>
-**Time cost: 1.5 month**<br>
-[demovideo](softRender1.mp4)<br>
-I wrote a software renderer by JAVA in vscode.<br>
+在游戏内，你可以把方块扔进门里，它会从另一扇门弹出<br>
+并且，这种机制可用于伪造非欧几里德空间<br>
+更多关于我的游戏，您可以观看[演示视频]（gamedemo.mp4）<br>
+## 软渲染器
+**独自完成**<br>
+**工具: Visual Studio Code. 语言: JAVA**<br>
+[演示视频](softRender1.mp4)<br>
 ![image](pic1.png)<br>
-The general process of the pipeline of this renderer is as follows:<br>
-Read the model, obtain information ->put it into vertex buffer ->perform MV transformation on all vertices 
-->extract 3 vertices according to the index to form a triangle ->remove triangles completely on the back of the camera 
-->projection transformation ->record vertex depth ->homogeneous space clipping ->homogeneous division ->screen mapping
-->rasterization and interpolation -> shading. <br>
-The main visual effects achieved by this renderer include perspective corrected UV texture mapping and a simple diffuse lighting model.<br>
+这个渲染器实现了一些常用的渲染管线操作，包括MVP变换，齐次空间裁剪，透视插值矫正等<br>
+实现的主要视觉效果包括透视校正过的UV纹理映射和简单的diffuse光照模型<br>
 ## Tiny Online Greedy-Snake Game
 **Solo**<br>
 **Language: C++**<br>
-**Time cost: 1 month**<br>
 ![image](snake.png)<br>
 I wrote a tiny online game for at most two players using C++, running in Ubuntu<br>
 This is a simple C++ console game, using deque for snakes and two-dimensional array for environment  <br>
