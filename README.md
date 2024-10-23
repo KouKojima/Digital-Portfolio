@@ -6,8 +6,8 @@
 **Award: Creative Gameplay Award in the Campus Game Jam**<br>
 I wrote a 3d Puzzle game in Unity.<br>
 ![image](game.png)<br>
-In this game, you can throw the block into the door and it will pop out on the other side of the door.<br>
-Similarly, this mechanism can fake a non-Euclidean space.<br>
+In this game, you can throw the block into the door and it will pop out on the other side of another door.<br>
+Similarly, this mechanism can be used to fake a non-Euclidean space.<br>
 To learn more about my game, you can watch the [video](gamedemo.mp4) <br>
 ## Software Renderer
 **Solo**<br>
