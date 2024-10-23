@@ -1,5 +1,5 @@
 # Digital-Portfolio
-**[Chinese Version/中文版本](README_zh.md)**
+**[Go To Chinese Version/中文版本](README_zh.md)**
 ## A Puzzle game
 **Solo**<br>
 **Tool: Unity Blender. Language: C# HLSL**<br>
