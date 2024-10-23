@@ -3,15 +3,17 @@
 **Solo**<br>
 **Tool: Unity Blender. Language: C# HLSL**<br>
 **Time cost: 1.5 month**<br>
+**Award: Creative Gameplay Award in the Campus Game Jam**<br>
 I wrote a 3d Puzzle game in Unity.<br>
 ![image](game.png)<br>
 In this game, you can throw the block into the door and it will pop out on the other side of the door.<br>
-Similarly, this mechanism can disguise a non-Euclidean space.<br>
+Similarly, this mechanism can fake a non-Euclidean space.<br>
 To learn more about my game, you can watch the [video](gamedemo.mp4) <br>
 ## Software Renderer
 **Solo**<br>
 **Tool: Visual Studio Code. Language: JAVA**<br>
 **Time cost: 1.5 month**<br>
+[demovideo](softRender1.mp4)<br>
 I wrote a software renderer by JAVA in vscode.<br>
 ![image](pic1.png)<br>
 The general process of the pipeline of this renderer is as follows:<br>
