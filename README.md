@@ -1,4 +1,7 @@
 # Digital-Portfolio
+## A Puzzle game
+I wrote a 3d Puzzle game in Unity.<br>
+![image](game.png)<br>
 ## Software Renderer
 I wrote a software renderer by JAVA in vscode.<br>
 ![image](pic1.png)<br>
@@ -13,5 +16,5 @@ The main visual effects achieved by this renderer include perspective corrected 
 I wrote a tiny online game for at most two players using C++, running in Ubuntu<br>
 This is a simple C++ console game, using deque for snakes and two-dimensional array for environment  <br>
 I used frame synchronization, which means that both players must receive each other's actions before continuing to run the next frame <br>
-## A Puzzle game
+
 
