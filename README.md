@@ -15,8 +15,8 @@ To learn more about my game, you can watch the [video](gamedemo.mp4) <br>
 I wrote a software renderer by JAVA in vscode.<br>
 ![image](pic1.png)<br>
 The general process of the pipeline of this renderer is as follows:<br>
-Read the model, obtain information ->put it into vertex buffer ->perform MV transformation on all vertices <br>
-->extract 3 vertices according to the index to form a triangle ->remove triangles completely on the back of the camera <br>
+Read the model, obtain information ->put it into vertex buffer ->perform MV transformation on all vertices 
+->extract 3 vertices according to the index to form a triangle ->remove triangles completely on the back of the camera 
 ->projection transformation ->record vertex depth ->homogeneous space clipping ->homogeneous division ->screen mapping<br>
 ->rasterization and interpolation -> shading. <br>
 The main visual effects achieved by this renderer include perspective corrected UV texture mapping and a simple diffuse lighting model.<br>
