@@ -14,13 +14,15 @@
 ![image](pic1.png)<br>
 这个渲染器实现了一些常用的渲染管线操作，包括MVP变换，齐次空间裁剪，透视插值矫正等<br>
 实现的主要视觉效果包括透视校正过的UV纹理映射和简单的diffuse光照模型<br>
-## Tiny Online Greedy-Snake Game
-**Solo**<br>
-**Language: C++**<br>
+## 双人联机贪吃蛇小游戏
+**独自完成**<br>
+**语言: C++**<br>
 ![image](snake.png)<br>
-I wrote a tiny online game for at most two players using C++, running in Ubuntu<br>
-This is a simple C++ console game, using deque for snakes and two-dimensional array for environment  <br>
-I used frame synchronization, which means that both players must receive each other's actions before continuing to run the next frame <br>
+使用c++在Ubuntu的控制台实现的基于TCP联机的贪吃蛇小游戏，两条蛇共用一张图和图中的道具<br>
+使用帧同步模式，服务端只用于转发数据，双方只有在接收到对方的操作以后，才能进行下一帧 <br>
+## 一些场景的制作，以及基于SRP实现了一些经典的算法
+**语言: C# HLSL**<br>
+![image](snake.png)<br>
 
 
 
