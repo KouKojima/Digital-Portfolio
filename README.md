@@ -27,6 +27,7 @@ The main visual effects achieved by this renderer include perspective corrected 
 **Solo**<br>
 **Language: C++**<br>
 **Time cost: 1 month**<br>
+[demovideo](cppGreedySnake.mp4)<br>
 ![image](snake.png)<br>
 I wrote a tiny online game for at most two players using C++, running in Ubuntu<br>
 This is a simple C++ console game, using deque for snakes and two-dimensional array for environment  <br>
