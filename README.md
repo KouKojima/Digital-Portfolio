@@ -32,5 +32,10 @@ The main visual effects achieved by this renderer include perspective corrected 
 I wrote a tiny online game for at most two players using C++, running in Ubuntu<br>
 This is a simple C++ console game, using deque for snakes and two-dimensional array for environment  <br>
 I used frame synchronization, which means that both players must receive each other's actions before continuing to run the next frame <br>
+## Stylized Rendered scene and the implementation of some classic algorithms based on SRP
+**Language: C# HLSL**<br>
+[demovideo](Stylized_Island.mp4)<br>
+![image](UnityScene.png)<br>
+Built a stylized island, and then implemented classic algorithms such as TAA and SSR as shown in the video
 
 
